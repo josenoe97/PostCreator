@@ -4,9 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StringBuilder.Entities
+namespace PostCreator.Entities
 {
-    internal class Comment
+     class Comment
     {
+        public  string Text { get; set; }
+
+        public Comment()
+        {
+
+        }
+
+        public Comment(string text) 
+        {
+            Text = text; 
+        }
     }
 }
