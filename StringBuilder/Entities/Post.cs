@@ -41,7 +41,18 @@ namespace PostCreator.Entities
         public override string ToString() // StringBuilder test !! using System.Text
         {
             StringBuilder sb = new StringBuilder();
-            
+            sb.AppendLine(Title);
+            sb.Append(Likes);
+            sb.Append(" Likes - ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));//Definindo formato da Data
+            sb.AppendLine(Content);
+            sb.AppendLine("Comments:");
+            foreach (Comment c in Comments)
+            {
+                sb.AppendLine(c.Text);
+            }
+
+            return sb.ToString();
         }
     }
 }

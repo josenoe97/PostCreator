@@ -1,0 +1,8 @@
+H:\VisualStudio\Udemy\PostCreator\StringBuilder\bin\Debug\StringBuilder.exe.config
+H:\VisualStudio\Udemy\PostCreator\StringBuilder\bin\Debug\StringBuilder.exe
+H:\VisualStudio\Udemy\PostCreator\StringBuilder\bin\Debug\StringBuilder.pdb
+H:\VisualStudio\Udemy\PostCreator\StringBuilder\obj\Debug\PostCreator.csproj.AssemblyReference.cache
+H:\VisualStudio\Udemy\PostCreator\StringBuilder\obj\Debug\PostCreator.csproj.SuggestedBindingRedirects.cache
+H:\VisualStudio\Udemy\PostCreator\StringBuilder\obj\Debug\PostCreator.csproj.CoreCompileInputs.cache
+H:\VisualStudio\Udemy\PostCreator\StringBuilder\obj\Debug\StringBuilder.exe
+H:\VisualStudio\Udemy\PostCreator\StringBuilder\obj\Debug\StringBuilder.pdb
